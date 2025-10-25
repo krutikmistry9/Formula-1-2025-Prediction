@@ -23,7 +23,7 @@ An AI-powered Formula 1 prediction system that uses machine learning to forecast
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AndreaZero/f1-2025-winner.git
+git clone https://github.com/krutikmistry9/Formula-1-2025-Prediction
 cd f1-2025-winner
 ```
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 3. Run the Streamlit app:
 
 ```bash
-python -m streamlit run f1_predictor.py
+python3 -m streamlit run f1_predictor.py
 ```
 
 ## Usage
